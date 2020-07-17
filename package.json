@@ -1,5 +1,5 @@
 {
-  "name": "box-selection",
+  "name": "vue-box-selection",
   "version": "1.0.0",
   "description": "鼠标框选",
   "main": "./dist/box-selection.js",

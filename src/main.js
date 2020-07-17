@@ -8,7 +8,7 @@ if (window !== undefined && window.Vue) {
   install(window.vue)
 }
 
-export {
+export default {
   BoxSelection,
   install
 }
